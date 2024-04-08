@@ -1,0 +1,26 @@
+Title=Water Quality Analysis
+Data Flow Diagram:-
+*Importing Libraries(modules)
+	->numpy  
+	->pandas  
+	->seaborn
+	->matplotlib 
+	->plotly
+		=>express
+	->missingno
+	->pandas_profiling
+	->sklearn
+		=>preprocessing
+		=>model_selection
+		=>metrics
+		=>ensemble
+		=>tree
+*Loading Data
+*Data Cleaning
+*Exploratory Data Analysis(EDA)
+	->Visualisation=Matplolib & Seaborn
+	->Pandas Profilling
+*Model Selection
+	->Model= Logistic Regression,KNeighborsClassifier,Decision Tree 			 Classifier,GaussianNB
+*Model Testing
+	->Training= confusion_matrix,precision_score
