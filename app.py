@@ -51,7 +51,7 @@ def main():
         st.write("")
         st.write("")
         if prediction[0] == 0:
-            st.write("<span style='color:blue; font-size:35px'><b>Water Quality is good.</b></span>", unsafe_allow_html=True)
+            st.write("<span style='color:green; font-size:35px'><b>Water Quality is good.</b></span>", unsafe_allow_html=True)
         else:
             st.write("<span style='color:red; font-size:35px'><b>Water Quality is bad.</b></span>", unsafe_allow_html=True)
 
