@@ -52,9 +52,10 @@ def main():
         st.write("")
         if prediction[0] == 0:
             st.write("<span style='color:green; font-size:35px'><b>Water Quality is good.</b></span>", unsafe_allow_html=True)
+            st.markdown("![Water Is Drinkable GIF](https://img.laitimes.com/img/__Qf2AjLwojIjJCLyojI0JCLiMGc902byZ2PkJmYmRmYhVGZ1IjZ5QDZ4QWYjRTYhlDO2EjZkJmZ4EzLcBza5QTcsJja2FXLp1ibj1ycvR3Lc5Wanlmcv9CXt92YucWbp9WYpRXdvRnLzA3Lc9CX6MHc0RHaiojIsJye.webp)")
         else:
             st.write("<span style='color:red; font-size:35px'><b>Water Quality is bad.</b></span>", unsafe_allow_html=True)
-
+            st.markdown("![Water Is Not Drinkable GIF](https://cdn.dribbble.com/users/742615/screenshots/3293621/media/b6ea130ac9bab9d0acefae88e9ab7ce5.gif)")
         
 
 if __name__ == '__main__':
