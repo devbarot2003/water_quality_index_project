@@ -106,25 +106,25 @@ def main():
         st.title("Analysis of Dataset")
 
         st.markdown("<h4 style='text-align: center;'>1. Heatmap of Null Values in dataset</h4>", unsafe_allow_html=True)
-        st.image("images/ Null_values_heatmap.png")
+        st.image("images/Null_values_heatmap.png")
 
         st.markdown("<h4 style='text-align: center;'>2. Heatmap of dataset</h4>", unsafe_allow_html=True)
-        st.image("images/ Normal_heatmap.png")
+        st.image("images/Normal_heatmap.png")
 
         st.markdown("<h4 style='text-align: center;'>3. Countplot of Potability</h4>", unsafe_allow_html=True)
-        st.image("images/ countplot_potability.png")
+        st.image("images/countplot_potability.png")
 
         st.markdown("<h4 style='text-align: center;'>4. Violin plot of pH-level</h4>", unsafe_allow_html=True)
-        st.image("images/ Violin_plot_ph_level.png")
+        st.image("images/Violin_plot_ph_level.png")
 
         st.markdown("<h4 style='text-align: center;'>5. Boxplot of all columns in dataset</h4>", unsafe_allow_html=True)
-        st.image("images/ boxplots.png")
+        st.image("images/boxplots.png")
 
         st.markdown("<h4 style='text-align: center;'>6. Histogram of all columns in dataset</h4>", unsafe_allow_html=True)
-        st.image("images/ histograms.png")
+        st.image("images/histograms.png")
 
         st.markdown("<h4 style='text-align: center;'>7. Pairplot of dataset</h4>", unsafe_allow_html=True)
-        st.image("images/ pairplot.png")
+        st.image("images/pairplot.png")
 
         st.markdown("<h4 style='text-align: center;'>8. Potability V/S pH in barplot</h4>", unsafe_allow_html=True)
         st.image("images/ potability_ph_comparison_bar.png")
