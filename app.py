@@ -127,10 +127,10 @@ def main():
         st.image("images/pairplot.png")
 
         st.markdown("<h4 style='text-align: center;'>8. Potability V/S pH in barplot</h4>", unsafe_allow_html=True)
-        st.image("images/ potability_ph_comparison_bar.png")
+        st.image("images/potability_ph_comparison_bar.png")
 
         st.markdown("<h4 style='text-align: center;'>9. Potability V/S Hardness via barplot</h4>", unsafe_allow_html=True)
-        st.image("images/ potability_hardness_comparison_bar.png")
+        st.image("images/potability_hardness_comparison_bar.png")
 
         st.markdown("<h4 style='text-align: center;'>10. Potability V/S Sulfate via histogram</h4>", unsafe_allow_html=True)
         st.image("images/potability_sulfate_comparison_hist.png")
