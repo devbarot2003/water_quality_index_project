@@ -186,5 +186,6 @@ def main():
         st.write("These programs often provide training and support to volunteers interested in monitoring local water sources. One of the popular water monitoring program:")
         st.markdown("[Click Here to know more. ↗️](https://www.nwtwaterstewardship.ca/en/nwt-wide-community-based-water-quality-program)")
         st.image("images/monitor.jpg")
+
 if __name__ == '__main__':
     main()
