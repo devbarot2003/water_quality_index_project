@@ -82,7 +82,7 @@ def main():
 
 
     elif selected_option == "📊 Prediction":
-        st.title('Water Quality Prediction')
+        st.write("<h1 style='text-align: center;'>Water Quality Prediction</h1>",unsafe_allow_html=True)
         st.sidebar.header('Input Variables:')
         ph = st.sidebar.slider('pH level', min_value=0.0, max_value=14.0, step=0.1)
         hardness = st.sidebar.slider('Hardness', min_value=0.0, max_value=500.0, step=1.0)
