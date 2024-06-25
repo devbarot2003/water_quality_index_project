@@ -28,7 +28,7 @@ The water_potability.csv file contains water quality metrics for 3276 different 
 
 <h2>Prediction Output (2 outputs)</h2>
 <br><h4>Output for poor water</h4><br>
-![image](https://github.com/devbarot2003/water_quality_index_project/assets/101123678/9b09c43c-97dd-478e-a08b-b62e1b344aaa)
+![image](https://github.com/devbarot2003/water_quality_index_project/assets/101123678/28c8577e-9613-4134-a67d-57b615451837)
 
 <br><h4>Output for good water</h4><br>
 ![image](https://github.com/devbarot2003/water_quality_index_project/assets/101123678/e88b29db-0152-43f8-a870-281bba8dd521)
