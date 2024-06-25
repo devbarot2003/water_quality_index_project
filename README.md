@@ -24,3 +24,11 @@ The water_potability.csv file contains water quality metrics for 3276 different 
 9. <b>Turbidity</b>: The turbidity of water depends on the quantity of solid matter present in the suspended state. It is a measure of light emitting properties of water and the test is used to indicate the quality of waste discharge with respect to colloidal matter. The mean turbidity value obtained for Wondo Genet Campus (0.98 NTU) is lower than the WHO recommended value of 5.00 NTU.
 <br><br>
 10. <b>Potability</b>: Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
+<br><br>
+
+<h2>Prediction Output (2 outputs)</h2>
+<br><h4>Output for poor water</h4><br>
+![image](https://github.com/devbarot2003/water_quality_index_project/assets/101123678/9b09c43c-97dd-478e-a08b-b62e1b344aaa)
+
+<br><h4>Output for good water</h4><br>
+![image](https://github.com/devbarot2003/water_quality_index_project/assets/101123678/e88b29db-0152-43f8-a870-281bba8dd521)
